@@ -48,6 +48,8 @@ ytthumb
 fuzzywuzzy
 instaloader
 python-Levenshtein
+MukeshAPI
+
 
 # AI Tools
 beautifulsoup4
