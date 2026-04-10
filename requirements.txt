@@ -69,7 +69,3 @@ git+https://github.com/Joelkb/cinemagoer
 apscheduler
 opencv-python-headless
 telegraph
-
-
-
-Iss ko latest version pr karo
