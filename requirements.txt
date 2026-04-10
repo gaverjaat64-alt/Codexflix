@@ -1,9 +1,7 @@
-kurigram==2.2.19
-tgcrypto
-#ffff
+# Core Dependencies
 aiofiles
 aiohttp
-beautifulsoup4
+bs4
 colorama
 datetime
 dnspython
@@ -12,7 +10,7 @@ httpx[http2]
 jinja2
 marshmallow
 motor
-numpy
+numPy
 pillow
 psutil
 pymongo[srv]
@@ -23,7 +21,8 @@ pyromod
 pytz
 requests
 shortzy
-speedtest-cli
+speedtest
+tgcrypto
 ujson
 wget
 wheel
@@ -33,12 +32,14 @@ humanize
 # Master Dependencies
 PyLeaves
 Telethroid
-wikipedia
+Wikipedia
 
-
+# Pyrogram Fork
+kurigram 
 
 # YouTube Downloading
 ffmpeg
+youtube-dl
 youtube-search-python
 youtube_search
 yt-dlp
@@ -48,22 +49,27 @@ ytthumb
 fuzzywuzzy
 instaloader
 python-Levenshtein
-MukeshAPI
-
 
 # AI Tools
+bard
 beautifulsoup4
 google-generativeai
 googletrans==3.1.0a0
-gTTS
+gtts
+lexica-api
+MukeshAPI
 qrcode
 textblob
 langdetect 
 
 # Git-based Packages
-git+https://github.com/cinemagoer/cinemagoer
+git+https://github.com/Joelkb/cinemagoer
 
 # Other Tools
 apscheduler
 opencv-python-headless
 telegraph
+
+
+
+Iss ko latest version pr karo
